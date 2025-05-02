@@ -1,0 +1,9 @@
+
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+[[mods]]
+modId="chiji"
+version="1.0"
+displayName="Chiji Battle Royale"
+description="A full battle royale system with zone, skills, and airdrops."
